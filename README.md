@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, me chamo Enzzo!
+Olá! Sou Enzzo, um desenvolvedor front-end fascinado por design e tecnologia, com 20 anos de idade, resido na cidade de Florianópolis 🏝️, e adoro criar interfaces interativas e envolventes, combinando habilidades técnicas e visuais para entregar experiências digitais inovadoras💻.
 
-<!--
-**EnzzoNatan/EnzzoNatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+<div>
+<img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+<img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+          
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div align="left">
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EnzzoNatan&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzzoNatan&hide_progress=true&theme=chartreuse-dark"/>
+</div>
+
