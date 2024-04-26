@@ -1,5 +1,5 @@
 ### Olá, me chamo Enzzo!
-Olá! Sou Enzzo, um desenvolvedor front-end fascinado por design e tecnologia, com 20 anos de idade, resido na cidade de Florianópolis 🏝️, e adoro criar interfaces interativas e envolventes, combinando habilidades técnicas e visuais para entregar experiências digitais inovadoras💻.
+Olá! Sou Enzzo, um desenvolvedor fascinado por design e tecnologia, com 20 anos de idade, resido na cidade de Florianópolis 🏝️. Adoro criar interfaces interativas e envolventes, combinando habilidades técnicas e visuais para entregar experiências digitais inovadoras💻.
 
 ##
 <div>
