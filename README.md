@@ -23,3 +23,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzzoNatan&hide_progress=true&theme=chartreuse-dark"/>
 </div>
 
+##
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
