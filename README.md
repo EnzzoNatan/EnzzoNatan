@@ -18,11 +18,8 @@
 </div>
 
 ##
-<div align="left">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EnzzoNatan&count_private=true&show_icons=true&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzzoNatan&hide_progress=true&theme=chartreuse-dark"/>
+<div>
+<a href="https://github.com/EnzzoNatan">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzzoNatan&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzzoNatan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
-
-##
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
