@@ -5,7 +5,6 @@
 
 💻 Além do JavaScript, tenho interesse em HTML, CSS, Angular, React, TypeScript. Estou sempre a explorar novas tecnologias e frameworks que possam melhorar minha produtividade e a qualidade do meu trabalho.
 
-🌴 Quando não estou codificando, você pode me encontrar explorando as praias e trilhas da maravilhosa Florianópolis, uma cidade que me inspira tanto quanto a tecnologia que eu amo.
 
 ##
 <div>
