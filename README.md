@@ -1,5 +1,5 @@
 ### Olá, me chamo Enzzo!
-👋 Olá! Meu nome é Enzzo, sou um entusiasta e futuro desenvolvedor front-end, moro em Florianópolis, Brasil. Com 21 anos de idade, estou profundamente apaixonado pela criação de interfaces funcionais para a web.
+👋 Olá! Meu nome é Enzzo, sou um futuro desenvolvedor front-end, moro em Florianópolis, Brasil. Com 22 anos de idade, estou profundamente apaixonado pela criação de interfaces funcionais para a web.
 
 🚀 Atualmente, meu foco principal está no desenvolvimento utilizando JavaScript, uma linguagem poderosa que me permite explorar novas ideias e transformá-las em realidade digital. Estou constantemente buscando aprender e evoluir minhas habilidades nesta área fascinante.
 
