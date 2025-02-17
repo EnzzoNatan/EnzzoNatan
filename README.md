@@ -1,11 +1,11 @@
 ### Olá, me chamo Enzzo!
 Olá! Meu nome é Enzzo, futuro desenvolvedor front-end.
 
-🗺️ Florianópolis,SC, Brasil.
+🗺️ Florianópolis, SC, Brasil.
 
-📖 Atualmente curso Desenvolvimento de Sistemas pelo IFSC (Instituto Federal de Santa Catarina 
+📖 Atualmente curso Desenvolvimento de Sistemas pelo IFSC (Instituto Federal de Santa Catarina) 
 
-🖥️ Minhas tecnologias preferidas são JavaScript, CSS, HTML e React. 
+🖥️ Minhas tecnologias preferidas são JavaScript, CSS, HTML, React e NodeJS. 
 
 ##
 <div>
