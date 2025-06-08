@@ -5,7 +5,10 @@ Olá! Meu nome é Enzzo, futuro desenvolvedor front-end.
 
 📖 Atualmente curso Desenvolvimento de Sistemas pelo IFSC (Instituto Federal de Santa Catarina) 
 
-🖥️ Minhas tecnologias preferidas são JavaScript, CSS, HTML, React e NodeJS. 
+🖥️ Tecnologias preferidas são JavaScript, CSS, HTML, React e NodeJS.
+
+↪️ www.linkedin.com/in/enzzo-ferraz
+
 
 ##
 <div>
