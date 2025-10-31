@@ -1,5 +1,5 @@
 ### Sobre mim!
-Olá! Meu nome é Enzzo, desenvolvedor front-end.
+Olá! Meu nome é Enzzo, desenvolvedor full stack.
 
 🗺️ Florianópolis, SC, Brasil.
 
