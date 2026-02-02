@@ -9,5 +9,5 @@ Olá! Meu nome é Enzzo, desenvolvedor full stack.
 
 ↪️ www.linkedin.com/in/enzzo-ferraz
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Enzzo=anuraghazra&show_icons=true&theme=merko)
+(https://github-readme-stats.vercel.app/api?Enzzo=anuraghazra&show_icons=true&theme=merko)
 
