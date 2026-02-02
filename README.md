@@ -9,6 +9,6 @@ Olá! Meu nome é Enzzo, desenvolvedor full stack.
 
 ↪️ www.linkedin.com/in/enzzo-ferraz
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
           
                     
